@@ -1,4 +1,4 @@
-# Hi, ich bin Nols 👋
+# Hi, ich bin Nils 👋
 
 Fachinformatiker Systemintegration und Entwickler von **Azubi Lab** mit Fokus auf Linux, Docker und Netzwerke.
 
